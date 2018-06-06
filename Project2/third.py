@@ -1,8 +1,9 @@
 import cv2 as cv
-import sys, os
+import os
 from matplotlib import pyplot as plt
 import numpy as np
 
+# Set current directory to the directory of the file
 cur_dir = os.path.dirname(os.path.realpath(__file__))
 os.chdir(cur_dir)
 

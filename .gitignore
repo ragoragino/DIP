@@ -1,6 +1,7 @@
-# Data and PDF
+# Data, PDF and Pycharm IDEA
 *.pdf
 data/
+.idea/
 
 
 # Byte-compiled / optimized / DLL files
